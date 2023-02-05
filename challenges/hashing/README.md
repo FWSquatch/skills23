@@ -1,6 +1,6 @@
 The Hash Brown challenges will NOT be in flag format. 
 # Hash Browns 1
-Submit the sha1 hash of Baker Mayfield image
+Submit the sha1 hash of browns.png. Flag is: 4cada019521631904686ef605ca7b2d5690d8d25 
 # Hash Browns 2
 Submit the SHA512 password hash for the ups-driver user from the given a shadow file
 flag is: $y$j9T$9R2VGsKFw7BeJ4JMtHt9X0$uR9tKapstvgcP2TsKWRnDnMuamh5.gjrDRobmecTdzB
