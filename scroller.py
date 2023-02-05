@@ -154,14 +154,14 @@ def translate(tm,value):
 
     return return_val
 
-def scroller(tm,dw,delay):
+def scroller(tm,words,delay):
     # Add some pading
-    dw = "XXXX"+dw+"XXXX"
-    for x in range(len(dw)-3):
-        val1 = translate(tm,dw[x])
-        val2 = translate(tm,dw[x+1])
-        val3 = translate(tm,dw[x+2])
-        val4 = translate(tm,dw[x+3])
+    words = "XXXX"+words+"XXXX"
+    for x in range(len(words)-3):
+        val1 = translate(tm,words[x])
+        val2 = translate(tm,words[x+1])
+        val3 = translate(tm,words[x+2])
+        val4 = translate(tm,words[x+3])
         tm.set_segments([val1,val2,val3,val4])
         sleep(delay)
 
@@ -190,6 +190,7 @@ def show_clock(tm):
         sleep(.5)
         tm.set_segments([d0, d1, d2, d3])
 
+# Rolling animation (used to separate messages)
 def roll():
     for x in range (2):
         tm.set_segments([0b1000000,0b1000000,0b1000000,0b1000000])
