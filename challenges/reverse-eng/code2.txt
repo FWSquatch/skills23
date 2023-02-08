@@ -1,0 +1,17 @@
+from base64 import b64decode as LetsGetTacos
+
+bing = ''
+bang ="MT"
+boom=["E0IDEwMCAxMjU=",
+	"E0IDExNSAxMDEgOTUgNjcgOTcg",
+	"AxIDExOCAxMDEg",
+	"EgOTUgODIg",
+	"IzIDg1IDExMCAx",
+	"Ug",
+	"A4IDEwOCAx",
+	"E1IDEwNyAxMDUg"]
+
+for i in range (len(boom)):
+	bing=bing+bang+boom[len(boom)-1-i].rstrip()
+
+print(LetsGetTacos(bing))
