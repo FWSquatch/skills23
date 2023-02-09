@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+
+##############################
+# Flag code has been removed #
+##############################
+
+guess = input("Enter guess:")
+
+if len(guess) == 12:
+  if guess.count('j') == 2:
+    if sum(char.isdigit() for char in guess) == 4:
+      if sum(char.isspace() for char in guess) > 0:
+        word = convert_code_to_text(my_code)
+        print(word)

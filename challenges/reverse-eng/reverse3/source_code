@@ -1,0 +1,26 @@
+#!/usr/bin/env python3
+
+my_code = '521011911111001590611501590911111411411790870321511801801501701511' [::-1]
+
+def convert_code_to_text(code):
+  chunk_size = 3
+  
+  code_length = len(code)
+  chunks = code_length // chunk_size
+  my_word = []
+  
+  for chunk in range(chunks):
+    my_word.append(chr(int(code[chunk*chunk_size:(chunk+1)*chunk_size])))
+  
+  return ''.join(my_word)
+
+
+flag = "skills{Narrow_it_down}"
+guess = input("Enter guess:")
+
+if len(guess) == 12:
+  if guess.count('j') == 2:
+    if sum(char.isdigit() for char in guess) == 4:
+      if sum(char.isspace() for char in guess) > 0:
+        word = convert_code_to_text(my_code)
+        print(word)
