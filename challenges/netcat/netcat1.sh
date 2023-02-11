@@ -1,5 +1,5 @@
 #!/bin/bash
-PORT=5656
+PORT=8185
 SCRIPT=/opt/netcat/flag1.sh
 
 if pgrep -f "nc -l -p $PORT -e $SCRIPT" > /dev/null ; then
