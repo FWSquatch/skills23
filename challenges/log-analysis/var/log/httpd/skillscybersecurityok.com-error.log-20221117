@@ -1,0 +1,1 @@
+[Thu Nov 17 03:20:40.583278 2022] [ssl:error] [pid 157414:tid 140533225723648] [client 46.101.9.216:37996] AH02032: Hostname www.giglineheroes.com provided via SNI and hostname skillscybersecurityok.com provided via HTTP have no compatible SSL setup

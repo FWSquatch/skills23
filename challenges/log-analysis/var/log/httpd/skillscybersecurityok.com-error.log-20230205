@@ -1,0 +1,2 @@
+[Thu Feb 02 02:57:27.912913 2023] [core:error] [pid 18674:tid 140489546180352] [client 152.89.196.211:37028] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+[Thu Feb 02 10:23:31.235814 2023] [cgid:error] [pid 18674:tid 140489562965760] [client 185.180.143.7:33248] AH01264: script not found or unable to stat: /var/www/cgi-bin/config.exp

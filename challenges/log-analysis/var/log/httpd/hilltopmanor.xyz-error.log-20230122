@@ -1,0 +1,2 @@
+[Thu Jan 19 13:38:51.482756 2023] [core:error] [pid 103399:tid 140397187598080] [client 152.89.196.211:50570] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+[Sat Jan 21 14:53:00.975950 2023] [core:error] [pid 109181:tid 140397313488640] [client 193.118.53.210:52970] AH00126: Invalid URI in request HEAD /icons/.%2e/%2e%2e/apache2/icons/sphere1.png HTTP/1.1

@@ -1,0 +1,358 @@
+[Sun Jan 22 03:12:02.075252 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 22 03:12:02.076599 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Jan 22 03:12:02.076621 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jan 22 12:52:22.507783 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sun Jan 22 12:52:22.591824 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 22 12:52:22.593136 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Jan 22 12:52:22.593159 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jan 22 12:52:26.828537 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sun Jan 22 12:52:26.924643 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 22 12:52:26.925759 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Jan 22 12:52:26.925774 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jan 22 12:52:28.498519 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sun Jan 22 12:52:28.570923 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 22 12:52:28.572033 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Jan 22 12:52:28.572053 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jan 22 12:52:32.936523 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sun Jan 22 12:52:33.040390 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 22 12:52:33.041621 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Jan 22 12:52:33.041638 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Jan 23 00:22:10.736174 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Jan 23 00:22:10.820949 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 23 00:22:10.821984 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Mon Jan 23 00:22:10.822000 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Jan 23 00:22:15.058520 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Jan 23 00:22:15.146128 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 23 00:22:15.147112 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Mon Jan 23 00:22:15.147125 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Jan 23 00:22:16.755602 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Jan 23 00:22:16.827389 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 23 00:22:16.828510 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Mon Jan 23 00:22:16.828529 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Jan 23 00:22:21.163674 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Jan 23 00:22:21.254533 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 23 00:22:21.255592 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Mon Jan 23 00:22:21.255606 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Jan 23 12:09:31.969687 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Jan 23 12:09:32.125415 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 23 12:09:32.126589 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Mon Jan 23 12:09:32.126606 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Jan 23 12:09:36.282210 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Jan 23 12:09:36.381177 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 23 12:09:36.382304 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Mon Jan 23 12:09:36.382322 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Jan 23 12:09:37.861717 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Jan 23 12:09:37.935478 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 23 12:09:37.936506 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Mon Jan 23 12:09:37.936520 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Jan 23 12:09:42.301413 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Jan 23 12:09:42.403682 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 23 12:09:42.404847 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Mon Jan 23 12:09:42.404868 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Jan 23 22:54:45.320095 2023] [core:error] [pid 115175:tid 140397237954304] [client 152.89.196.211:51058] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+[Tue Jan 24 00:54:56.181944 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Tue Jan 24 00:54:56.304479 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Tue Jan 24 00:54:56.305731 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jan 24 00:54:56.305755 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jan 24 00:55:00.485333 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Tue Jan 24 00:55:00.584566 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Tue Jan 24 00:55:00.585650 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jan 24 00:55:00.585667 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jan 24 00:55:02.106148 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Tue Jan 24 00:55:02.186448 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Tue Jan 24 00:55:02.187689 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jan 24 00:55:02.187711 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jan 24 00:55:06.562230 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Tue Jan 24 00:55:06.692405 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Tue Jan 24 00:55:06.693944 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jan 24 00:55:06.693965 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jan 24 12:19:29.565350 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Tue Jan 24 12:19:29.710379 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Tue Jan 24 12:19:29.711535 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jan 24 12:19:29.711552 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jan 24 12:19:33.916103 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Tue Jan 24 12:19:34.009462 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Tue Jan 24 12:19:34.010625 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jan 24 12:19:34.010642 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jan 24 12:19:35.430899 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Tue Jan 24 12:19:35.504457 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Tue Jan 24 12:19:35.505655 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jan 24 12:19:35.505677 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jan 24 12:19:39.859802 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Tue Jan 24 12:19:39.967465 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Tue Jan 24 12:19:39.968541 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jan 24 12:19:39.968558 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jan 25 00:31:33.070787 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Jan 25 00:31:33.241425 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Wed Jan 25 00:31:33.242992 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jan 25 00:31:33.243019 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jan 25 00:31:37.416765 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Jan 25 00:31:37.508479 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Wed Jan 25 00:31:37.509675 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jan 25 00:31:37.509690 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jan 25 00:31:38.902759 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Jan 25 00:31:38.976824 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Wed Jan 25 00:31:38.978283 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jan 25 00:31:38.978313 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jan 25 00:31:43.337753 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Jan 25 00:31:43.428339 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Wed Jan 25 00:31:43.429570 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jan 25 00:31:43.429603 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jan 25 13:01:08.368763 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Jan 25 13:01:08.599637 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Wed Jan 25 13:01:08.603558 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jan 25 13:01:08.603620 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jan 25 13:01:12.775359 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Jan 25 13:01:12.877732 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Wed Jan 25 13:01:12.878923 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jan 25 13:01:12.878941 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jan 25 13:01:14.473364 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Jan 25 13:01:14.549693 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Wed Jan 25 13:01:14.551014 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jan 25 13:01:14.551038 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jan 25 13:01:18.896805 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Jan 25 13:01:18.993233 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Wed Jan 25 13:01:18.994455 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jan 25 13:01:18.994471 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Jan 26 00:56:46.251100 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jan 26 00:56:47.104187 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 26 00:56:47.109967 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jan 26 00:56:47.110018 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Jan 26 00:56:50.677242 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jan 26 00:56:50.780934 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 26 00:56:50.781973 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jan 26 00:56:50.781985 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Jan 26 00:56:52.345605 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jan 26 00:56:52.416454 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 26 00:56:52.419789 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jan 26 00:56:52.419812 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Jan 26 00:57:06.065687 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jan 26 00:57:06.161169 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 26 00:57:06.162524 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jan 26 00:57:06.162544 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Jan 26 13:00:00.366495 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jan 26 13:00:02.430476 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 26 13:00:02.434541 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jan 26 13:00:02.434567 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Jan 26 13:00:04.830047 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jan 26 13:00:05.032006 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 26 13:00:05.033767 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jan 26 13:00:05.033796 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Jan 26 13:00:06.751238 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jan 26 13:00:06.826888 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 26 13:00:06.828094 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jan 26 13:00:06.828127 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Jan 26 13:00:11.259531 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jan 26 13:00:11.432131 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 26 13:00:11.434118 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jan 26 13:00:11.434160 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Jan 26 20:30:24.101751 2023] [core:error] [pid 123586:tid 140397246347008] [client 146.0.77.38:49844] AH00126: Invalid URI in request GET /dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/ HTTP/1.1
+[Thu Jan 26 23:19:52.904668 2023] [core:error] [pid 123812:tid 140397254739712] [client 80.66.77.235:39224] AH00126: Invalid URI in request GET /../../mnt/mtd/Config/Account1 HTTP/1.1
+[Fri Jan 27 00:56:25.631206 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jan 27 00:56:26.400045 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 27 00:56:26.404042 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jan 27 00:56:26.404069 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Jan 27 00:56:29.995047 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jan 27 00:56:30.162923 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 27 00:56:30.163968 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jan 27 00:56:30.163984 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Jan 27 00:56:31.483841 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jan 27 00:56:31.554706 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 27 00:56:31.555877 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jan 27 00:56:31.555893 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Jan 27 00:56:35.936808 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jan 27 00:56:36.038985 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 27 00:56:36.040193 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jan 27 00:56:36.040213 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Jan 27 12:24:44.211333 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jan 27 12:24:44.515246 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 27 12:24:44.516851 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jan 27 12:24:44.516874 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Jan 27 12:24:48.582268 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jan 27 12:24:48.724664 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 27 12:24:48.725829 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jan 27 12:24:48.725844 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Jan 27 12:24:50.215031 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jan 27 12:24:50.290599 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 27 12:24:50.291614 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jan 27 12:24:50.291630 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Jan 27 12:24:54.642324 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jan 27 12:24:54.739532 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 27 12:24:54.740548 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jan 27 12:24:54.740562 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 00:13:36.447869 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 00:13:36.600355 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 00:13:36.602353 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 00:13:36.602390 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 00:13:40.785096 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 00:13:40.880308 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 00:13:40.881331 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 00:13:40.881347 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 00:13:42.360246 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 00:13:42.432803 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 00:13:42.434044 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 00:13:42.434065 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 00:13:46.768327 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 00:13:46.864307 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 00:13:46.865364 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 00:13:46.865380 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:05:24.232653 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:05:28.021656 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:05:28.024369 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:05:28.024394 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:05:28.794003 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:05:28.914144 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:05:28.915178 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:05:28.915191 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:05:31.633950 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:05:31.751365 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:05:31.752529 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:05:31.752548 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:05:36.327997 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:05:37.172108 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:05:37.173375 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:05:37.173399 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:06:52.131279 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:06:52.536543 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:06:52.537914 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:06:52.537939 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:06:56.479947 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:06:56.622476 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:06:56.623924 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:06:56.623951 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:06:58.157793 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:06:58.266428 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:06:58.268272 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:06:58.268320 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:07:14.764796 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:07:14.864494 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:07:14.865726 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:07:14.865746 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:07:17.927198 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:07:18.000954 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:07:18.002751 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:07:18.002778 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:07:31.699700 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:07:31.795787 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:07:31.796882 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:07:31.796898 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:08:03.739877 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:08:03.832568 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:08:03.833879 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:08:03.833905 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:08:20.331789 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:08:20.436930 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:08:20.438131 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:08:20.438150 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:08:23.671674 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:08:23.745628 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:08:23.746892 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:08:23.746920 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:08:37.444061 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:08:37.606650 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:08:37.607784 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:08:37.607801 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:09:15.772107 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:09:15.845255 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:09:15.846456 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:09:15.846477 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:09:29.543947 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jan 28 09:09:29.651418 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140398075918656] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:09:29.653056 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:09:29.653086 2023] [core:notice] [pid 794:tid 140398075918656] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:30:49.857263 2023] [mpm_event:notice] [pid 794:tid 140398075918656] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 09:31:11.619051 2023] [suexec:notice] [pid 155654:tid 139701880830272] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 09:31:11.646800 2023] [lbmethod_heartbeat:notice] [pid 155654:tid 139701880830272] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 09:31:11.650833 2023] [mpm_event:notice] [pid 155654:tid 139701880830272] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 09:31:11.650862 2023] [core:notice] [pid 155654:tid 139701880830272] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 09:58:23.857806 2023] [mpm_event:notice] [pid 155654:tid 139701880830272] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 10:00:11.198053 2023] [suexec:notice] [pid 794:tid 140306988640576] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using telstar.hilltopmanor.xyz. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 28 10:00:11.421194 2023] [lbmethod_heartbeat:notice] [pid 794:tid 140306988640576] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 10:00:11.467168 2023] [mpm_event:notice] [pid 794:tid 140306988640576] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 10:00:11.467232 2023] [core:notice] [pid 794:tid 140306988640576] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 10:01:44.230777 2023] [mpm_event:notice] [pid 794:tid 140306988640576] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 10:03:05.596280 2023] [suexec:notice] [pid 793:tid 139700169005376] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using telstar.skillscybersecurityok.com. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 28 10:03:05.799126 2023] [lbmethod_heartbeat:notice] [pid 793:tid 139700169005376] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 10:03:05.863321 2023] [mpm_event:notice] [pid 793:tid 139700169005376] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 10:03:05.863378 2023] [core:notice] [pid 793:tid 139700169005376] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 10:12:30.486119 2023] [mpm_event:notice] [pid 793:tid 139700169005376] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 10:12:31.895270 2023] [suexec:notice] [pid 6083:tid 140546477775168] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 10:12:31.924735 2023] [lbmethod_heartbeat:notice] [pid 6083:tid 140546477775168] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 10:12:31.929087 2023] [mpm_event:notice] [pid 6083:tid 140546477775168] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 10:12:31.929167 2023] [core:notice] [pid 6083:tid 140546477775168] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 10:18:39.794144 2023] [mpm_event:notice] [pid 6083:tid 140546477775168] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 10:18:40.905759 2023] [suexec:notice] [pid 6850:tid 140618900891968] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 10:18:40.910375 2023] [ssl:warn] [pid 6850:tid 140618900891968] AH01909: telstar.skillscybersecurityok.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:18:40.941790 2023] [ssl:warn] [pid 6850:tid 140618900891968] AH01909: telstar.skillscybersecurityok.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:18:40.942024 2023] [lbmethod_heartbeat:notice] [pid 6850:tid 140618900891968] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 10:18:40.946795 2023] [mpm_event:notice] [pid 6850:tid 140618900891968] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 10:18:40.946846 2023] [core:notice] [pid 6850:tid 140618900891968] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 10:19:41.772357 2023] [proxy:error] [pid 6853:tid 140618126829312] [client 184.176.29.131:33456] AH00898: DNS lookup failure for: 127.0.0.1:8000setup returned by /setup
+[Sat Jan 28 10:20:08.194360 2023] [mpm_event:notice] [pid 6850:tid 140618900891968] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 10:20:09.266522 2023] [suexec:notice] [pid 7083:tid 140651640260928] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 10:20:09.268074 2023] [ssl:warn] [pid 7083:tid 140651640260928] AH01909: telstar.skillscybersecurityok.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:20:09.302192 2023] [ssl:warn] [pid 7083:tid 140651640260928] AH01909: telstar.skillscybersecurityok.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:20:09.302353 2023] [lbmethod_heartbeat:notice] [pid 7083:tid 140651640260928] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 10:20:09.305831 2023] [mpm_event:notice] [pid 7083:tid 140651640260928] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 10:20:09.305869 2023] [core:notice] [pid 7083:tid 140651640260928] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 10:21:48.208976 2023] [proxy_http:error] [pid 7088:tid 140650994792192] (70007)The timeout specified has expired: [client 184.176.29.131:54846] AH01102: error reading status line from remote server 127.0.0.1:8000
+[Sat Jan 28 10:21:48.209057 2023] [proxy:error] [pid 7088:tid 140650994792192] [client 184.176.29.131:54846] AH00898: Error reading from remote server returned by /
+[Sat Jan 28 10:22:00.381487 2023] [mpm_event:notice] [pid 7083:tid 140651640260928] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 10:22:01.467266 2023] [suexec:notice] [pid 7420:tid 140502416087360] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 10:22:01.469352 2023] [ssl:warn] [pid 7420:tid 140502416087360] AH01909: telstar.skillscybersecurityok.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:22:01.500251 2023] [ssl:warn] [pid 7420:tid 140502416087360] AH01909: telstar.skillscybersecurityok.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:22:01.500508 2023] [lbmethod_heartbeat:notice] [pid 7420:tid 140502416087360] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 10:22:01.516800 2023] [mpm_event:notice] [pid 7420:tid 140502416087360] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 10:22:01.516871 2023] [core:notice] [pid 7420:tid 140502416087360] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 10:23:36.739294 2023] [mpm_event:notice] [pid 7420:tid 140502416087360] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 10:24:00.344825 2023] [suexec:notice] [pid 7666:tid 140161159403840] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 10:24:00.346375 2023] [ssl:warn] [pid 7666:tid 140161159403840] AH01909: telstar.skillscybersecurityok.com:8000:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:24:00.373340 2023] [ssl:warn] [pid 7666:tid 140161159403840] AH01909: telstar.skillscybersecurityok.com:8000:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:24:00.373514 2023] [lbmethod_heartbeat:notice] [pid 7666:tid 140161159403840] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 10:24:00.378143 2023] [mpm_event:notice] [pid 7666:tid 140161159403840] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 10:24:00.378186 2023] [core:notice] [pid 7666:tid 140161159403840] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 10:24:39.617168 2023] [mpm_event:notice] [pid 7666:tid 140161159403840] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 10:29:35.085341 2023] [suexec:notice] [pid 8282:tid 139848526604608] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 10:29:35.090422 2023] [ssl:warn] [pid 8282:tid 139848526604608] AH01909: telstar.skillscybersecurityok.com:8000:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:29:35.124137 2023] [ssl:warn] [pid 8282:tid 139848526604608] AH01909: telstar.skillscybersecurityok.com:8000:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:29:35.124323 2023] [lbmethod_heartbeat:notice] [pid 8282:tid 139848526604608] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 10:29:35.128717 2023] [mpm_event:notice] [pid 8282:tid 139848526604608] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 10:29:35.128758 2023] [core:notice] [pid 8282:tid 139848526604608] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 10:31:00.740229 2023] [mpm_event:notice] [pid 8282:tid 139848526604608] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 10:31:01.818114 2023] [suexec:notice] [pid 8511:tid 139962976201024] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 10:31:01.819762 2023] [ssl:warn] [pid 8511:tid 139962976201024] AH01909: telstar.skillscybersecurityok.com:8000:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:31:01.852080 2023] [ssl:warn] [pid 8511:tid 139962976201024] AH01909: telstar.skillscybersecurityok.com:8000:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:31:01.852262 2023] [lbmethod_heartbeat:notice] [pid 8511:tid 139962976201024] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 10:31:01.856297 2023] [mpm_event:notice] [pid 8511:tid 139962976201024] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 10:31:01.856346 2023] [core:notice] [pid 8511:tid 139962976201024] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 10:33:42.462282 2023] [mpm_event:notice] [pid 8511:tid 139962976201024] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 10:33:43.535365 2023] [suexec:notice] [pid 8736:tid 140568788080960] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 10:33:43.537050 2023] [ssl:warn] [pid 8736:tid 140568788080960] AH01909: telstar.skillscybersecurityok.com:8000:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:33:43.566225 2023] [ssl:warn] [pid 8736:tid 140568788080960] AH01909: telstar.skillscybersecurityok.com:8000:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 28 10:33:43.566689 2023] [lbmethod_heartbeat:notice] [pid 8736:tid 140568788080960] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 10:33:43.570831 2023] [mpm_event:notice] [pid 8736:tid 140568788080960] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 10:33:43.570871 2023] [core:notice] [pid 8736:tid 140568788080960] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 10:36:19.938903 2023] [mpm_event:notice] [pid 8736:tid 140568788080960] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 10:36:21.015987 2023] [suexec:notice] [pid 8965:tid 140689743440192] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 10:36:21.051451 2023] [lbmethod_heartbeat:notice] [pid 8965:tid 140689743440192] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 10:36:21.055229 2023] [mpm_event:notice] [pid 8965:tid 140689743440192] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 10:36:21.055262 2023] [core:notice] [pid 8965:tid 140689743440192] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 10:57:15.876425 2023] [mpm_event:notice] [pid 8965:tid 140689743440192] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 11:01:03.922422 2023] [suexec:notice] [pid 17329:tid 139766835751232] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 11:01:03.981364 2023] [lbmethod_heartbeat:notice] [pid 17329:tid 139766835751232] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 11:01:03.986498 2023] [mpm_event:notice] [pid 17329:tid 139766835751232] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 11:01:03.986558 2023] [core:notice] [pid 17329:tid 139766835751232] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 17:46:08.726949 2023] [mpm_event:notice] [pid 17329:tid 139766835751232] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 18:10:50.137670 2023] [suexec:notice] [pid 789:tid 140160993327424] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using telstar.skillscybersecurityok.com. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 28 18:10:50.314661 2023] [lbmethod_heartbeat:notice] [pid 789:tid 140160993327424] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 18:10:50.429165 2023] [mpm_event:notice] [pid 789:tid 140160993327424] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 18:10:50.429212 2023] [core:notice] [pid 789:tid 140160993327424] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 28 18:11:30.032540 2023] [mpm_event:notice] [pid 789:tid 140160993327424] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Jan 28 18:39:40.503060 2023] [suexec:notice] [pid 15650:tid 140490409969984] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Jan 28 18:39:40.541179 2023] [lbmethod_heartbeat:notice] [pid 15650:tid 140490409969984] AH02282: No slotmem from mod_heartmonitor
+[Sat Jan 28 18:39:40.546156 2023] [mpm_event:notice] [pid 15650:tid 140490409969984] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Jan 28 18:39:40.546214 2023] [core:notice] [pid 15650:tid 140490409969984] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jan 29 03:22:02.292276 2023] [mpm_event:notice] [pid 15650:tid 140490409969984] AH00493: SIGUSR1 received.  Doing graceful restart

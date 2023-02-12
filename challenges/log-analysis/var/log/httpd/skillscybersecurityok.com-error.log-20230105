@@ -1,0 +1,1 @@
+[Thu Jan 05 00:37:29.452668 2023] [ssl:error] [pid 59347:tid 140397338666752] [client 159.65.24.22:48232] AH02032: Hostname xsdzbss.com provided via SNI and hostname skillscybersecurityok.com provided via HTTP have no compatible SSL setup

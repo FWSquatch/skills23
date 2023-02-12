@@ -1,0 +1,6 @@
+[Sun Jan 01 08:14:54.106268 2023] [core:error] [pid 49434:tid 140397246347008] [client 152.89.196.211:57418] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+[Mon Jan 02 08:56:29.270710 2023] [ssl:error] [pid 52225:tid 140397338666752] [client 167.248.133.118:56650] AH02032: Hostname www.skillscybersecurityok.com provided via SNI and hostname 194.195.210.97 provided via HTTP have no compatible SSL setup
+[Sat Jan 07 08:49:12.473220 2023] [cgid:error] [pid 66824:tid 140397229561600] [client 51.107.1.183:64477] AH01264: script not found or unable to stat: /var/www/cgi-bin/luci
+[Sat Jan 07 12:37:49.611775 2023] [core:error] [pid 68012:tid 140397246347008] [client 146.0.77.38:44120] AH00126: Invalid URI in request GET /dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/ HTTP/1.1
+[Sat Jan 07 21:04:04.471570 2023] [core:error] [pid 68012:tid 140397321881344] [client 128.14.209.162:52344] AH00126: Invalid URI in request HEAD /icons/.%2e/%2e%2e/apache2/icons/sphere1.png HTTP/1.1
+[Sat Jan 07 22:16:24.007075 2023] [core:error] [pid 68227:tid 140397271525120] [client 128.199.2.117:44364] AH00126: Invalid URI in request GET /cgi-bin/.%2e/%2e%2e/.git/config HTTP/1.1

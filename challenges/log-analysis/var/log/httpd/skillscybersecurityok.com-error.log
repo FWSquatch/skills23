@@ -1,0 +1,1 @@
+[Sun Feb 05 08:44:23.254830 2023] [cgid:error] [pid 23580:tid 140489688856320] [client 128.1.248.42:46256] AH01264: script not found or unable to stat: /var/www/cgi-bin/config.exp

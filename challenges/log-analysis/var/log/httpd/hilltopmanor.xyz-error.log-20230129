@@ -1,0 +1,7 @@
+[Sun Jan 22 08:51:58.524452 2023] [cgid:error] [pid 110735:tid 140397237954304] [client 128.14.133.58:36730] AH01264: script not found or unable to stat: /var/www/cgi-bin/config.exp
+[Mon Jan 23 02:05:16.772541 2023] [ssl:error] [pid 113700:tid 140397263132416] [client 162.142.125.219:35452] AH02032: Hostname skillscybersecurityok.com provided via SNI and hostname 194.195.210.97 provided via HTTP have no compatible SSL setup
+[Mon Jan 23 09:55:13.072184 2023] [core:error] [pid 113700:tid 140397212776192] [client 152.89.196.211:37248] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+[Thu Jan 26 07:31:05.390643 2023] [core:error] [pid 122160:tid 140397296703232] [client 185.180.143.79:36222] AH00126: Invalid URI in request HEAD /icons/.%2e/%2e%2e/apache2/icons/sphere1.png HTTP/1.1
+[Thu Jan 26 20:30:24.418319 2023] [core:error] [pid 123586:tid 140397246347008] [client 146.0.77.38:60440] AH00126: Invalid URI in request GET /dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/ HTTP/1.1
+[Fri Jan 27 15:38:22.541196 2023] [cgid:error] [pid 126662:tid 140397355452160] [client 185.180.143.79:56146] AH01264: script not found or unable to stat: /var/www/cgi-bin/config.exp
+[Fri Jan 27 18:55:52.567279 2023] [core:error] [pid 126662:tid 140397330274048] [client 185.180.143.71:45562] AH00126: Invalid URI in request HEAD /icons/.%2e/%2e%2e/apache2/icons/sphere1.png HTTP/1.1

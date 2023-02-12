@@ -1,0 +1,7 @@
+[Sun Jan 08 08:59:36.617207 2023] [ssl:error] [pid 70061:tid 140397372237568] [client 167.248.133.60:57710] AH02032: Hostname www.skillscybersecurityok.com provided via SNI and hostname 194.195.210.97 provided via HTTP have no compatible SSL setup
+[Sun Jan 08 13:03:15.079219 2023] [cgid:error] [pid 71368:tid 140397321881344] [client 128.14.134.170:53918] AH01264: script not found or unable to stat: /var/www/cgi-bin/config.exp
+[Mon Jan 09 09:01:56.362178 2023] [ssl:error] [pid 72865:tid 140397372237568] [client 162.142.125.222:41058] AH02032: Hostname www.skillscybersecurityok.com provided via SNI and hostname 194.195.210.97 provided via HTTP have no compatible SSL setup
+[Mon Jan 09 18:54:20.707353 2023] [core:error] [pid 74329:tid 140397271525120] [client 185.130.224.57:55436] AH00126: Invalid URI in request GET /dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/ HTTP/1.1
+[Tue Jan 10 23:33:17.139019 2023] [core:error] [pid 77148:tid 140397204383488] [client 152.89.196.211:40094] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+[Thu Jan 12 08:31:37.603552 2023] [core:error] [pid 81478:tid 140397263132416] [client 152.89.196.211:48990] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+[Sat Jan 14 09:15:20.376322 2023] [ssl:error] [pid 87219:tid 140397221168896] [client 167.248.133.120:53932] AH02032: Hostname skillscybersecurityok.com provided via SNI and hostname 194.195.210.97 provided via HTTP have no compatible SSL setup

@@ -1,0 +1,9 @@
+[Sun Jan 29 03:22:02.447220 2023] [lbmethod_heartbeat:notice] [pid 15650:tid 140490409969984] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 29 03:22:02.449639 2023] [mpm_event:notice] [pid 15650:tid 140490409969984] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Jan 29 03:22:02.449664 2023] [core:notice] [pid 15650:tid 140490409969984] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jan 31 03:40:01.631502 2023] [mpm_event:notice] [pid 15650:tid 140490409969984] AH00493: SIGUSR1 received.  Doing graceful restart
+[Tue Jan 31 03:40:01.854480 2023] [lbmethod_heartbeat:notice] [pid 15650:tid 140490409969984] AH02282: No slotmem from mod_heartmonitor
+[Tue Jan 31 03:40:01.856650 2023] [mpm_event:notice] [pid 15650:tid 140490409969984] AH00489: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jan 31 03:40:01.856684 2023] [core:notice] [pid 15650:tid 140490409969984] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jan 31 12:29:05.916336 2023] [core:error] [pid 18674:tid 140489714034432] [client 152.89.196.211:53982] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+[Sun Feb 05 03:46:01.720340 2023] [mpm_event:notice] [pid 15650:tid 140490409969984] AH00493: SIGUSR1 received.  Doing graceful restart
