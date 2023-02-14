@@ -13,19 +13,16 @@ num_pixels = 2
 # The order of the pixel colors - RGB or GRB. Some NeoPixels have red and green reversed!
 # For RGBW NeoPixels, simply change the ORDER to RGBW or GRBW.
 ORDER = neopixel.GRB
-
-pixels = neopixel.NeoPixel(
-    pixel_pin, num_pixels, brightness=0.2, auto_write=False, pixel_order=ORDER
-)
+pixels = neopixel.NeoPixel(pixel_pin, num_pixels, brightness=0.2, auto_write=False, pixel_order=ORDER)
 
 # Grab arguments
 message = sys.argv[1]
-print('length',len(sys.argv))
 if len(sys.argv) > 2:
     delay = float(sys.argv[2])
 else:
     delay = 1
 
+# Define colors
 red = (255,0,0)
 green = (0,255,0)
 blue = (0,0,255)
@@ -34,6 +31,7 @@ white = (255,255,255)
 cyan = (0,255,255)
 purple = (255,0,255)
 
+# Define encoding
 code = {
     "A": [red,red],
     "B" : [red,green],
@@ -86,17 +84,7 @@ code = {
     "DASH" : [purple,purple]
 }
 
-def pix_off():
-    pixels.fill((0,0,0))
-    pixels.show()
-
-def convert(word):
-    for char in word:
-        if any(map(str.isupper,char)):
-            display(char)
-        else:
-            display(spec_chars(char))
-        
+# Deal with special characters
 def spec_chars(char):
     if char == '1':
         return 'ONE'
@@ -145,6 +133,17 @@ def spec_chars(char):
     elif char == '-':
         return 'DASH'
 
+def pix_off():
+    pixels.fill((0,0,0))
+    pixels.show()
+
+def encode(word):
+    for char in word:
+        if any(map(str.isupper,char)):
+            display(char)
+        else:
+            display(spec_chars(char))
+        
 def display(char):
     pixels[0] = code[char][0]
     pixels[1] = code[char][1]
@@ -153,9 +152,26 @@ def display(char):
     pix_off()
     time.sleep(.1)
 
-convert(message)
-
-pix_off()
+def wheel(pos):
+    # Input a value 0 to 255 to get a color value.
+    # The colours are a transition r - g - b - back to r.
+    if pos < 0 or pos > 255:
+        r = g = b = 0
+    elif pos < 85:
+        r = int(pos * 3)
+        g = int(255 - pos * 3)
+        b = 0
+    elif pos < 170:
+        pos -= 85
+        r = int(255 - pos * 3)
+        g = 0
+        b = int(pos * 3)
+    else:
+        pos -= 170
+        r = 0
+        g = int(pos * 3)
+        b = int(255 - pos * 3)
+    return (r, g, b) if ORDER in (neopixel.RGB, neopixel.GRB) else (r, g, b, 0)
 
 def rainbow_cycle(wait):
     for j in range(255):
@@ -165,5 +181,13 @@ def rainbow_cycle(wait):
         pixels.show()
         time.sleep(wait)
 
-rainbow_cycle(0.001)  # rainbow cycle with 1ms delay per step
+def reset_animation():
+    time.sleep(1)
+    for i in range(3):
+        rainbow_cycle(0.001)  
+    pix_off()
+    time.sleep(1)
 
+while True:
+    reset_animation()
+    encode(message.upper())
