@@ -1,0 +1,13 @@
+# /etc/systemd/system/dropbear.service
+[Unit]
+Description=Dropbear Chroot Service
+After=network.target
+
+[Service]
+Type=forking
+ExecStartPre=/bin/sleep 30
+ExecStart=/bin/bash /root/start_dropbear.sh 
+
+[Install]
+WantedBy=multi-user.target
+
