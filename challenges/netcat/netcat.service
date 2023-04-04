@@ -1,0 +1,16 @@
+[Unit]
+Description=Netcat Challenges Service
+
+Wants=network.target
+After=syslog.target network-online.target
+
+[Service]
+Type=forking
+ExecStart=/opt/netcat/runallnetcat.sh
+ExecStop=/opt/netcat/killallnetcat.sh
+Restart=on-failure
+RestartSec=10
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target

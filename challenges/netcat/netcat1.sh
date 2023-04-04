@@ -10,3 +10,4 @@ else
 		sleep 1
 	done
 fi
+exit 0

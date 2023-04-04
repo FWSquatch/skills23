@@ -1,0 +1,16 @@
+[Unit]
+Description=Encoding Challenges Service
+
+Wants=network.target
+After=syslog.target network-online.target
+
+[Service]
+Type=forking
+ExecStart=/opt/encoding/runall_encoding.sh
+ExecStop=/opt/encoding/killall_encoding.sh
+Restart=on-failure
+RestartSec=10
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target
